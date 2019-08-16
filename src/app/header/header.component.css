@@ -1,0 +1,7 @@
+.bg {
+  background:
+  url("../../assets/header.jpg")
+    no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}

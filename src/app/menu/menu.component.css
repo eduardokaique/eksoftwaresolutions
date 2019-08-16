@@ -1,0 +1,15 @@
+.menu ul {
+  margin-top: 30px;
+  margin-right: 10%;
+  list-style:none;
+  text-align: right
+}
+.menu ul li {
+  display: inline;
+  padding:10px;
+}
+nav.menu {
+  background: none;
+  color: #444;
+}
+
